@@ -1,16 +1,13 @@
-### Hi there 👋
+### Que onda  👋
 
-<!--
-**Rnavarr0/Rnavarr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy robert de sistemas, sean bienvenidos a mi perfil. 
 
-Here are some ideas to get you started:
+Que se hace aqui 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy buscando: No morir en el intento de aprender esta materia
+- 👯 Soy amigable pero tryhard en videojuegos
+- 🤔 Busco ayuda para aprender hacking y necesito gente para crecer el twitch
+- 💬 sobre cualquier cosa, no me enojo 
+- 📫 Actualmente estoy aprendiendo python, uso de kali (me gustaba mas backtrack),kotlin
+- ⚡ Pasarla bien
+-->Puedes seguirme en twitch/xxrncwarsxx
